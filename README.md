@@ -1,7 +1,7 @@
 # 💫 About Me:
 I’m an electrical engineer working on electromagnetic modeling for MRI systems and deep learning for medical imaging.
 
-## 🌐 Socials:
+### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ilias-giannakopoulos-1051b7184/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ilias.giannakopoulos@nyulangone.org) 
 
 # 💻 Tech Stack:
