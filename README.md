@@ -2,7 +2,7 @@
 I’m an Assistant Professor at NYU. I am working on electromagnetic modeling for MRI systems and deep learning for medical imaging.
 
 ### 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ilias-giannakopoulos-1051b7184/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ilias.giannakopoulos@nyulangone.org) [![NYU](https://img.shields.io/badge/NYU-57068c)](https://med.nyu.edu/faculty/ilias-giannakopoulos) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ilias-giannakopoulos-1051b7184/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ilias.giannakopoulos@nyulangone.org) [![NYU](https://img.shields.io/badge/NYU-57068c)](https://med.nyu.edu/faculty/ilias-giannakopoulos) [![MARIE](https://img.shields.io/badge/MARIE-305CDE)](https://github.com/cloudmrhub/marie-tools) 
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
@@ -17,5 +17,4 @@ I’m an Assistant Professor at NYU. I am working on electromagnetic modeling fo
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) 
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=plastic&logo=Trello&logoColor=white) 
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=plastic&logo=Trello&logoColor=white)
