@@ -4,10 +4,10 @@ I’m an Assistant Professor at NYU. I am working on electromagnetic modeling fo
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ilias-giannakopoulos-1051b7184/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ilias.giannakopoulos@nyulangone.org) [![NYU](https://img.shields.io/badge/NYU-57068c)](https://med.nyu.edu/faculty/ilias-giannakopoulos)
 
-# 💻 Notable Codes:
+### 💻 Notable Codes:
 [![MARIE](https://img.shields.io/badge/MARIE-305CDE)](https://github.com/cloudmrhub/marie-tools) 
 
-# 💻 Tech Stack:
+### 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) 
